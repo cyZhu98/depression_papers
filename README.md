@@ -5,6 +5,7 @@ For more information of papers with other depression datasets, please refer to m
 
 ## Extended DAIC-WOZ
 
+
 ### Papers that report results on the dev set only are marked by :sparkles:, those do a classification task are marked by :rocket:. *Reporting results on the test set is recommended*
 
 * **[AVEC 2019 Workshop and Challenge: State-of-Mind, Detecting Depression with AI, and Cross-Cultural Affect Recognition](https://dl.acm.org/doi/abs/10.1145/3347320.3357688) (2019)**: 
@@ -23,7 +24,7 @@ CCC : .442 ; RMSE : 5.50
 
 CCC : .430 ; RMSE : 
 
-* **[Multimodal Fusion of BERT-CNN and Gated CNN Representations for Depression Detection](https://dl.acm.org/doi/abs/10.1145/3347320.3357694)**
+* **[Multimodal Fusion of BERT-CNN and Gated CNN Representations for Depression Detection](https://dl.acm.org/doi/abs/10.1145/3347320.3357694) (2019)**
 
 TODO
 
@@ -45,4 +46,10 @@ CCC : .531
 
 
 * **[Multi-Modal Adaptive Fusion Transformer Network for the Estimation of Depression Level](https://www.mdpi.com/1424-8220/21/14/4764/htm#)**:sparkles:
+
+Dataset references : 
+
+Gratch J, Artstein R, Lucas GM, Stratou G, Scherer S, Nazarian A, Wood R, Boberg J, DeVault D, Marsella S, Traum DR. The Distress Analysis Interview Corpus of human and computer interviews. InLREC 2014 May (pp. ‪3123-3128‬)
+
+DeVault, D., Artstein, R., Benn, G., Dey, T., Fast, E., Gainer, A., Georgila, K., Gratch, J., Hartholt, A., Lhommet, M., Lucas, G., Marsella, S., Morbini, F., Nazarian, A., Scherer, S., Stratou, G., Suri, A., Traum, D., Wood, R., Xu, Y., Rizzo, A., and Morency, L.-P. (2014). “SimSensei kiosk: A virtual human interviewer for healthcare decision support”. In Proceedings of the 13th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’14), Paris
 
