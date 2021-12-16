@@ -29,7 +29,7 @@ CCC : .430 ; RMSE :
 TODO
 
 
-* **[A Multimodal Framework for State of Mind Assessment with Sentiment Pre-classification](https://dl.acm.org/doi/abs/10.1145/3347320.3357689)**
+* **[A Multimodal Framework for State of Mind Assessment with Sentiment Pre-classification](https://dl.acm.org/doi/abs/10.1145/3347320.3357689) (2019)**
 
 ![image](pic/som.png)
 
@@ -45,7 +45,7 @@ CCC : .531
 ![image](pic/mdlf.png)
 
 
-* **[Multi-Modal Adaptive Fusion Transformer Network for the Estimation of Depression Level](https://www.mdpi.com/1424-8220/21/14/4764/htm#)**:sparkles:
+* **[Multi-Modal Adaptive Fusion Transformer Network for the Estimation of Depression Level](https://www.mdpi.com/1424-8220/21/14/4764/htm#) (2021)**:sparkles:
 
 Dataset references : 
 
