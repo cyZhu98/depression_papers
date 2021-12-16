@@ -22,7 +22,7 @@ CCC : .442 ; RMSE : 5.50
 
 ![image](pic/tdcnn.png)
 
-CCC : .430 ; RMSE : 
+CCC : .430 ; RMSE : 5.91
 
 * **[Multimodal Fusion of BERT-CNN and Gated CNN Representations for Depression Detection](https://dl.acm.org/doi/abs/10.1145/3347320.3357694) (2019)**
 
