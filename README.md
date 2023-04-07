@@ -6,7 +6,7 @@ For more information of papers with other depression datasets, please refer to m
 ## Extended DAIC-WOZ
 
 
-### Papers that report results on the dev set only are marked by :sparkles:, those do a classification task are marked by :rocket:. *Reporting results on the test set is recommended*
+### Papers that report results on the dev set only are marked with :sparkles:, those do a classification task are marked with :rocket:. *Reporting results on the test set is recommended*
 
 * **[AVEC 2019 Workshop and Challenge: State-of-Mind, Detecting Depression with AI, and Cross-Cultural Affect Recognition](https://dl.acm.org/doi/abs/10.1145/3347320.3357688) (2019)**: 
 
